@@ -1,0 +1,55 @@
+<html>
+<head>
+    <title>  </title>
+</head>
+<body>
+    <form action="{% url 'polls:home' %}" method="post">
+        
+        {% csrf_token %}
+        <div>{{message}}</div>
+        <div>{{add}}</div>
+
+        {% if field %}
+        <div>{{field}}</div>
+        <div>{{dele}}</div>
+        
+
+        {% endif %}
+        <label for="name">Name:<input type="text"  autocomplete="off" name="name" id="name"/></label>
+        <label for="address">Address:<input type="text"  autocomplete="off" name="address" id="address"/></label>
+        <input type="submit" value="create"/>
+
+
+   <table border="1" >
+    <thead >
+       
+    <tr>
+        
+            <th>name</th>
+            <th>address</th>
+            <th>Actions</th>
+          </tr> 
+
+      </form>
+        </thead>
+
+        <tbody>
+          {% for students in data %}
+         
+            </tr>
+            <td>{{students.name}}</td>
+            <td>{{students.address}}</td>
+            
+            <td> 
+                <a href="/edit/{{students.id}}" >edit</a>
+                <a href="/delete/{{students.id}}">delete</a>
+               </form>
+            </td>  
+           
+           </tr> 
+            {% endfor %}
+
+        </tbody>
+    </table>
+</body>
+</html>

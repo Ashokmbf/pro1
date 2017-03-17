@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user/asd" added="2017-03-07T10:04:49Z" modified="2017-03-07T10:04:49Z" visited="2017-03-07T10:04:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-07T10:04:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/tow" added="2017-03-07T10:39:45Z" modified="2017-03-07T10:39:45Z" visited="2017-03-07T10:39:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-07T10:39:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/2" added="2017-03-07T10:41:53Z" modified="2017-03-07T10:41:53Z" visited="2017-03-07T10:41:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-07T10:41:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/1" added="2017-03-07T10:46:24Z" modified="2017-03-07T10:46:24Z" visited="2017-03-07T10:46:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-07T10:46:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/3" added="2017-03-07T11:19:21Z" modified="2017-03-07T11:19:21Z" visited="2017-03-07T11:19:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-07T11:19:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/4" added="2017-03-07T11:32:55Z" modified="2017-03-07T11:32:55Z" visited="2017-03-07T11:32:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-07T11:32:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/one/one" added="2017-03-07T12:51:29Z" modified="2017-03-07T12:52:08Z" visited="2017-03-07T12:51:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-07T12:52:08Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/one/README" added="2017-03-07T12:51:57Z" modified="2017-03-07T13:46:21Z" visited="2017-03-07T12:51:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-07T13:46:21Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/5" added="2017-03-07T14:48:46Z" modified="2017-03-07T14:48:46Z" visited="2017-03-07T14:48:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-07T14:48:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/7" added="2017-03-08T04:34:21Z" modified="2017-03-08T04:34:21Z" visited="2017-03-08T04:34:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T04:34:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/6" added="2017-03-08T04:44:51Z" modified="2017-03-08T04:44:51Z" visited="2017-03-08T04:44:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T04:44:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/6/num1/db.sqlite3" added="2017-03-08T05:00:01Z" modified="2017-03-08T05:00:01Z" visited="2017-03-08T05:00:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqliteman %f&apos;" modified="2017-03-08T05:00:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/lt1/lite1/db.sqlite3" added="2017-03-08T05:06:46Z" modified="2017-03-08T05:06:46Z" visited="2017-03-08T05:06:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqliteman %f&apos;" modified="2017-03-08T05:06:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/start" added="2017-03-08T05:32:10Z" modified="2017-03-08T05:32:10Z" visited="2017-03-08T05:32:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T05:32:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/dhaya" added="2017-03-08T06:04:35Z" modified="2017-03-08T06:04:35Z" visited="2017-03-08T06:04:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T06:04:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/dhaya/perfume/migrations/templates" added="2017-03-08T06:11:40Z" modified="2017-03-08T06:11:40Z" visited="2017-03-08T06:11:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T06:11:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/s" added="2017-03-08T06:49:22Z" modified="2017-03-08T06:49:22Z" visited="2017-03-08T06:49:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T06:49:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/dhaya/templates/one.html" added="2017-03-08T06:53:05Z" modified="2017-03-08T06:53:05Z" visited="2017-03-08T06:53:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T06:53:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/dhaya/templates/two.html" added="2017-03-08T06:53:21Z" modified="2017-03-08T06:53:21Z" visited="2017-03-08T06:53:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T06:53:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/1/asd/db.sqlite3" added="2017-03-08T07:11:30Z" modified="2017-03-17T05:07:14Z" visited="2017-03-08T07:11:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="sqliteman" exec="&apos;sqliteman %u&apos;" modified="2017-03-08T07:11:30Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2017-03-17T05:07:14Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/old" added="2017-03-08T07:29:09Z" modified="2017-03-08T07:29:09Z" visited="2017-03-08T07:29:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T07:29:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/old/polls/urls.py" added="2017-03-08T07:34:33Z" modified="2017-03-08T07:34:33Z" visited="2017-03-08T07:34:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T07:34:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/old/blogs/templates/blogs/post_list.html" added="2017-03-08T07:55:21Z" modified="2017-03-08T07:55:21Z" visited="2017-03-08T07:55:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T07:55:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/q" added="2017-03-08T08:41:36Z" modified="2017-03-08T08:41:36Z" visited="2017-03-08T08:41:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T08:41:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/q/blog/templates/blog/post_list.html" added="2017-03-08T08:42:45Z" modified="2017-03-08T08:42:45Z" visited="2017-03-08T08:42:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T08:42:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/qwer" added="2017-03-08T09:31:09Z" modified="2017-03-08T09:31:09Z" visited="2017-03-08T09:31:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T09:31:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/qwer/db.sqlite3" added="2017-03-08T09:33:44Z" modified="2017-03-08T10:10:46Z" visited="2017-03-08T09:33:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2017-03-08T10:10:46Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/second" added="2017-03-08T10:20:06Z" modified="2017-03-08T10:20:06Z" visited="2017-03-08T10:20:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T10:20:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/second/db.sqlite3" added="2017-03-08T10:21:13Z" modified="2017-03-08T10:21:13Z" visited="2017-03-08T10:21:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2017-03-08T10:21:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/second/blog/template/blog/post.html" added="2017-03-08T10:34:00Z" modified="2017-03-08T10:34:00Z" visited="2017-03-08T10:34:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T10:34:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/second/templates/post.html" added="2017-03-08T11:00:12Z" modified="2017-03-08T11:00:12Z" visited="2017-03-08T11:00:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T11:00:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/second/polls/urls.py" added="2017-03-08T11:19:14Z" modified="2017-03-08T11:19:14Z" visited="2017-03-08T11:19:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T11:19:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/a.html" added="2017-03-08T12:50:05Z" modified="2017-03-08T12:51:09Z" visited="2017-03-08T12:50:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2017-03-08T12:50:05Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/subl %F&apos;" modified="2017-03-08T12:51:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/qwer/db.sqlite3" added="2017-03-08T13:02:12Z" modified="2017-03-08T13:02:12Z" visited="2017-03-08T13:02:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2017-03-08T13:02:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/2/second/db.sqlite3" added="2017-03-08T13:03:39Z" modified="2017-03-09T04:39:41Z" visited="2017-03-08T13:03:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2017-03-09T04:39:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/asdf" added="2017-03-08T13:10:07Z" modified="2017-03-08T13:10:07Z" visited="2017-03-08T13:10:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T13:10:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/asdf/polls/urls.py" added="2017-03-08T13:22:46Z" modified="2017-03-08T13:22:46Z" visited="2017-03-08T13:22:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T13:22:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/asdf/asdf/templates/main.html" added="2017-03-08T13:33:33Z" modified="2017-03-08T13:33:33Z" visited="2017-03-08T13:33:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T13:33:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/asdf/asdf/templates/home.html" added="2017-03-08T13:35:05Z" modified="2017-03-08T13:35:05Z" visited="2017-03-08T13:35:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T13:35:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/asdf/templates/home.html" added="2017-03-08T13:43:35Z" modified="2017-03-08T13:43:35Z" visited="2017-03-08T13:43:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T13:43:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/asdf/db.sqlite3" added="2017-03-08T13:52:37Z" modified="2017-03-08T14:16:33Z" visited="2017-03-08T13:52:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2017-03-08T14:16:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/asdf/templates/submit.html" added="2017-03-08T14:57:15Z" modified="2017-03-08T14:57:15Z" visited="2017-03-08T14:57:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-08T14:57:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/1/asdf" added="2017-03-09T04:55:37Z" modified="2017-03-14T06:35:19Z" visited="2017-03-09T04:55:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-14T06:35:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/1/asdf/db.sqlite3" added="2017-03-09T07:10:01Z" modified="2017-03-17T07:26:53Z" visited="2017-03-09T07:10:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2017-03-17T07:26:53Z" count="44"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Form" added="2017-03-09T15:23:56Z" modified="2017-03-09T15:23:56Z" visited="2017-03-09T15:23:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-09T15:23:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Form/polls/form.py" added="2017-03-09T15:24:52Z" modified="2017-03-09T15:24:52Z" visited="2017-03-09T15:24:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-09T15:24:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Form/polls/templates/base.html" added="2017-03-09T15:25:58Z" modified="2017-03-09T15:25:58Z" visited="2017-03-09T15:25:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-09T15:25:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Form/polls/urls.py" added="2017-03-09T15:28:30Z" modified="2017-03-09T15:28:30Z" visited="2017-03-09T15:28:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-09T15:28:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Form/polls/templates/post_edit.html" added="2017-03-09T15:29:42Z" modified="2017-03-09T15:29:42Z" visited="2017-03-09T15:29:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-09T15:29:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/form" added="2017-03-10T04:40:56Z" modified="2017-03-10T04:40:56Z" visited="2017-03-10T04:40:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-10T04:40:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/form/templates/cost.html" added="2017-03-10T04:41:43Z" modified="2017-03-10T04:41:43Z" visited="2017-03-10T04:41:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-10T04:41:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/form/polls/form.py" added="2017-03-10T04:42:23Z" modified="2017-03-10T04:42:23Z" visited="2017-03-10T04:42:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-10T04:42:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/form/polls/urls.py" added="2017-03-10T05:04:30Z" modified="2017-03-10T05:04:30Z" visited="2017-03-10T05:04:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-10T05:04:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/1/asdf/polls/form.py" added="2017-03-10T05:52:57Z" modified="2017-03-10T05:52:57Z" visited="2017-03-10T05:52:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-10T05:52:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/1/asdf/templates" added="2017-03-10T10:59:10Z" modified="2017-03-10T10:59:10Z" visited="2017-03-10T10:59:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Déjà Dup Backup Tool" exec="&apos;deja-dup %u&apos;" modified="2017-03-10T10:59:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/1/asdf/templates/room.html" added="2017-03-10T11:03:53Z" modified="2017-03-10T11:03:53Z" visited="2017-03-10T11:03:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-10T11:03:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/michael%20jackson-heal%20the%20world.mp3" added="2017-03-14T09:05:57Z" modified="2017-03-14T09:06:13Z" visited="2017-03-14T09:05:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2017-03-14T09:06:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Ashok/sqlite/1/asdf/templates/edit.html" added="2017-03-14T09:37:52Z" modified="2017-03-14T09:37:52Z" visited="2017-03-14T09:37:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-14T09:37:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/homepage" added="2017-03-15T06:02:27Z" modified="2017-03-15T06:02:27Z" visited="2017-03-15T06:02:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-15T06:02:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/homepage/simple/templates/index.html" added="2017-03-15T06:07:03Z" modified="2017-03-15T06:07:03Z" visited="2017-03-15T06:07:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-15T06:07:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/homepage/simple/urls.py" added="2017-03-15T06:08:35Z" modified="2017-03-15T06:08:35Z" visited="2017-03-15T06:08:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text 2" exec="&apos;sublime_text %u&apos;" modified="2017-03-15T06:08:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/pro/new" added="2017-03-17T12:29:19Z" modified="2017-03-17T12:29:22Z" visited="2017-03-17T12:29:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-17T12:29:22Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/pro/README" added="2017-03-17T12:29:36Z" modified="2017-03-17T12:29:41Z" visited="2017-03-17T12:29:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-17T12:29:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/vk/README" added="2017-03-17T12:44:45Z" modified="2017-03-17T12:44:55Z" visited="2017-03-17T12:44:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-17T12:44:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/README" added="2017-03-17T12:51:05Z" modified="2017-03-17T12:51:10Z" visited="2017-03-17T12:51:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-03-17T12:51:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

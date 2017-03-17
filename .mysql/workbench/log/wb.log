@@ -1,0 +1,56 @@
+17:46:02 [INF][      WBContext]: Parsing application arguments.
+17:46:02 [INF][      WBContext]:     /usr/lib/mysql-workbench/mysql-workbench-bin
+17:46:02 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/user/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+17:46:02 [INF][      WBContext]: WbContext::init
+17:46:04 [INF][            WBA]: Looking for extension modules for WBA...
+17:46:04 [INF][            WBA]: 0 extension modules found
+17:46:04 [WRN][            grt]: /usr/share/mysql-workbench/data/table_templates.xml:21: link 'com.mysql.rdbms.mysql.datatype.timestamp' <object db.SimpleDatatype> key=simpleType could not be resolved
+17:46:04 [WRN][            grt]: /usr/share/mysql-workbench/data/table_templates.xml:106: link 'com.mysql.rdbms.mysql.datatype.varchar' <object db.SimpleDatatype> key=simpleType could not be resolved
+17:46:04 [WRN][            grt]: /usr/share/mysql-workbench/data/table_templates.xml:229: link 'com.mysql.rdbms.mysql.datatype.int' <object db.SimpleDatatype> key=simpleType could not be resolved
+17:46:04 [WRN][            grt]: /home/user/.mysql/workbench/connections.xml:17: link '56e39071-07e3-11e7-bb21-3c77e61ea489' <object GrtObject> key=owner could not be resolved
+17:46:04 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 6.3.6 CE build 511 (64 bit)
+	Configuration Directory: /home/user/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.14.6
+	OS: Linux 4.8.0-39-generic
+	CPU: 4x Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz (899.945MHz) - 15.56GiB RAM
+	Distribution: Zorin OS 12.1
+
+	Fips mode enabled: no
+
+17:46:04 [INF][    WQE backend]: Found auto-save workspace /home/user/.mysql/workbench/sql_workspaces/Local_instance_3306-1.autosave
+17:46:04 [INF][    WQE backend]: Found auto-save workspace /home/user/.mysql/workbench/sql_workspaces/Local_instance_3306-2.autosave
+17:46:11 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:47:21 [ERR][            grt]: Invalid path element 'doc' in path: /wb/doc/physicalModels/0/catalog
+17:48:05 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)
+17:48:05 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'root'@'localhost' (using password: NO)
+17:48:07 [INF][    WQE backend]: User cancelled connection
+17:48:07 [INF][      WBContext]: Connection to new cancelled by user: Cancelled
+17:48:13 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)
+17:48:13 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'root'@'localhost' (using password: NO)
+17:48:16 [INF][    WQE backend]: User cancelled connection
+17:48:16 [INF][      WBContext]: Connection to Local instance 3306 cancelled by user: Cancelled

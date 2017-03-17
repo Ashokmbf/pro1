@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<data grt_format="2.0">
+  <value _ptr_="0x279ff40" type="list" content-type="object" content-struct-name="db.mgmt.Connection">
+    <value type="object" struct-name="db.mgmt.Connection" id="483a8ca4-031d-11e7-9172-3c77e61ea489" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@localhost:3306</value>
+      <value type="int" key="isDefault">0</value>
+      <value _ptr_="0x2859900" type="dict" key="modules"/>
+      <value _ptr_="0x2859990" type="dict" key="parameterValues">
+        <value type="string" key="hostName">localhost</value>
+        <value type="int" key="lastConnected">1488948650</value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="serverVersion">5.7.17-0ubuntu0.16.04.1</value>
+        <value type="string" key="userName">root</value>
+      </value>
+      <value type="string" key="name">Local instance 3306</value>
+      <link type="object" struct-name="GrtObject" key="owner">d3bf359d-07e6-11e7-8c82-3c77e61ea489</link>
+    </value>
+    <value type="object" struct-name="db.mgmt.Connection" id="ef890c85-031e-11e7-9172-3c77e61ea489" struct-checksum="0x96ba47d8">
+      <link type="object" struct-name="db.mgmt.Driver" key="driver">com.mysql.rdbms.mysql.driver.native</link>
+      <value type="string" key="hostIdentifier">Mysql@localhost:3306</value>
+      <value type="int" key="isDefault">1</value>
+      <value _ptr_="0x2859eb0" type="dict" key="modules"/>
+      <value _ptr_="0x2859f40" type="dict" key="parameterValues">
+        <value type="string" key="SQL_MODE"></value>
+        <value type="string" key="hostName">localhost</value>
+        <value type="int" key="lastConnected">1488898155</value>
+        <value type="string" key="password"></value>
+        <value type="int" key="port">3306</value>
+        <value type="string" key="schema"></value>
+        <value type="string" key="serverVersion">5.7.17-0ubuntu0.16.04.1</value>
+        <value type="string" key="sslCA"></value>
+        <value type="string" key="sslCert"></value>
+        <value type="string" key="sslCipher"></value>
+        <value type="string" key="sslKey"></value>
+        <value type="int" key="useSSL">1</value>
+        <value type="string" key="userName">root</value>
+      </value>
+      <value type="string" key="name">new</value>
+      <link type="object" struct-name="GrtObject" key="owner">d3bf359d-07e6-11e7-8c82-3c77e61ea489</link>
+    </value>
+  </value>
+</data>

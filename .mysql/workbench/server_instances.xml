@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<data grt_format="2.0">
+  <value _ptr_="0x279fe10" type="list" content-type="object" content-struct-name="db.mgmt.ServerInstance">
+    <value type="object" struct-name="db.mgmt.ServerInstance" id="483a8ca3-031d-11e7-9172-3c77e61ea489" struct-checksum="0x367436e2">
+      <link type="object" struct-name="db.mgmt.Connection" key="connection">483a8ca4-031d-11e7-9172-3c77e61ea489</link>
+      <value _ptr_="0x285a620" type="dict" key="loginInfo"/>
+      <value _ptr_="0x285a6b0" type="dict" key="serverInfo">
+        <value type="int" key="setupPending">1</value>
+        <value type="string" key="sys.config.path"></value>
+        <value type="string" key="sys.config.section">mysqld</value>
+        <value type="string" key="sys.preset">Custom</value>
+        <value type="string" key="sys.system">Linux</value>
+      </value>
+      <value type="string" key="name">Local 3306</value>
+    </value>
+    <value type="object" struct-name="db.mgmt.ServerInstance" id="f278e298-031e-11e7-9172-3c77e61ea489" struct-checksum="0x367436e2">
+      <link type="object" struct-name="db.mgmt.Connection" key="connection">ef890c85-031e-11e7-9172-3c77e61ea489</link>
+      <value _ptr_="0x285b4c0" type="dict" key="loginInfo">
+        <value type="string" key="ssh.port">22</value>
+        <value type="int" key="ssh.useKey">0</value>
+      </value>
+      <value _ptr_="0x285b550" type="dict" key="serverInfo">
+        <value type="string" key="serverVersion">5.7.17-0ubuntu0.16.04.1</value>
+        <value type="int" key="setupPending">0</value>
+        <value type="string" key="sys.config.path">/etc/mysql/my.cnf</value>
+        <value type="string" key="sys.config.section">mysqld</value>
+        <value type="string" key="sys.mysqld.start">start mysql</value>
+        <value type="string" key="sys.mysqld.stop">stop mysql</value>
+        <value type="string" key="sys.preset">Ubuntu Linux (Vendor Package)</value>
+        <value type="string" key="sys.sudo"></value>
+        <value type="string" key="sys.system">Linux</value>
+        <value type="int" key="sys.usesudo">1</value>
+      </value>
+      <value type="string" key="name"> instance</value>
+    </value>
+    <value type="object" struct-name="db.mgmt.ServerInstance" id="09561f08-031f-11e7-9172-3c77e61ea489" struct-checksum="0x367436e2">
+      <link type="object" struct-name="db.mgmt.Connection" key="connection">ef890c85-031e-11e7-9172-3c77e61ea489</link>
+      <value _ptr_="0x285bbd0" type="dict" key="loginInfo">
+        <value type="string" key="ssh.hostName"></value>
+        <value type="string" key="ssh.key">~/.ssh/ssh_private_key</value>
+        <value type="string" key="ssh.localPort">3306</value>
+        <value type="int" key="ssh.useKey">0</value>
+        <value type="string" key="ssh.userName">mysql</value>
+      </value>
+      <value _ptr_="0x285bc60" type="dict" key="serverInfo">
+        <value type="string" key="serverVersion">5.1</value>
+        <value type="int" key="setupPending">1</value>
+        <value type="string" key="sys.config.path">/etc/mysql/my.cnf</value>
+        <value type="string" key="sys.config.section">mysqld</value>
+        <value type="string" key="sys.mysqld.start">/etc/init.d/mysqld start</value>
+        <value type="string" key="sys.mysqld.stop">/etc/init.d/mysqld stop</value>
+        <value type="string" key="sys.system">Linux</value>
+        <value type="int" key="sys.usesudo">1</value>
+      </value>
+      <value type="string" key="name">new</value>
+    </value>
+    <value type="object" struct-name="db.mgmt.ServerInstance" id="62d6b454-03b3-11e7-8a66-3c77e61ea489" struct-checksum="0x367436e2">
+      <value _ptr_="0x285c2e0" type="dict" key="loginInfo">
+        <value type="string" key="ssh.port">22</value>
+        <value type="int" key="ssh.useKey">0</value>
+      </value>
+      <value _ptr_="0x285c370" type="dict" key="serverInfo">
+        <value type="int" key="remoteAdmin">0</value>
+        <value type="string" key="serverVersion">5.7.17-0ubuntu0.16.04.1</value>
+        <value type="string" key="sys.config.path">/etc/mysql/my.cnf</value>
+        <value type="string" key="sys.config.section">mysqld</value>
+        <value type="string" key="sys.mysqld.start">start mysql</value>
+        <value type="string" key="sys.mysqld.stop">stop mysql</value>
+        <value type="string" key="sys.preset">Debian</value>
+        <value type="string" key="sys.system">Linux</value>
+        <value type="int" key="sys.usesudo">1</value>
+        <value type="int" key="windowsAdmin">0</value>
+      </value>
+      <value type="string" key="name"> instance</value>
+    </value>
+  </value>
+</data>

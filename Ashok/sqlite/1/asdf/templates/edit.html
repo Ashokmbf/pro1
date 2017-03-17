@@ -1,0 +1,14 @@
+<html>
+<head><title></title>
+</head>
+<body>
+	<form action="{% url 'polls:edit' id %}" method="post">   
+		{% csrf_token %}
+		<div>{{field}}</div>
+		<div>{{msg}}</div>
+    <label for="name">Name:<input type="text" name="name" id="name" value="{{data.name}}"></label>
+	<label for="address">Address:<input type="text" name="address" id="address" value="{{data.address}}"></label>
+	<input type="submit" value="update">
+</form>
+</body>
+</html>
